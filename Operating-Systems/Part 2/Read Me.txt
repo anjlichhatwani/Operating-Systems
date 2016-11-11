@@ -1,0 +1,7 @@
+To compile the code:
+1. Open the terminal and navigate to the folder with the code.
+2. run command make.
+3. This will create a new executable OS_PRG3
+
+To run the code:
+1. Run command "./OSPRG3 <number of student> <roomsize>"
